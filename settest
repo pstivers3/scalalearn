@@ -1,0 +1,3 @@
+val myObj = Set("a","b")
+// myObj += "c"  // creates a new object and adds "c" to it
+myObj = Set("d","e")  // re-asign a new object of the same type to the objectname

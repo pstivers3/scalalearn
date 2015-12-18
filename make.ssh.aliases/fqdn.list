@@ -1,0 +1,14 @@
+# 3x app - b3
+ec2-107-21-101-229.compute-1.amazonaws.com
+ec2-107-22-193-12.compute-1.amazonaws.com
+# web split - bw
+ec2-204-236-230-76.compute-1.amazonaws.com
+ec2-23-23-182-213.compute-1.amazonaws.com
+# mongo shard - bm
+ec2-107-22-193-194.compute-1.amazonaws.com
+ec2-107-22-193-204.compute-1.amazonaws.com
+ec2-107-22-193-227.compute-1.amazonaws.com
+# mongo conf - bc
+ec2-107-22-193-126.compute-1.amazonaws.com
+ec2-107-22-193-179.compute-1.amazonaws.com
+ec2-107-22-193-188.compute-1.amazonaws.com
